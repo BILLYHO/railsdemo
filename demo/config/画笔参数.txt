@@ -1,0 +1,9 @@
+hardness: 100
+intensity: 41
+angle: 0
+spacing 0%
+jitter 0
+scatter 0
+dynamic angle -100
+dynamic weight -80
+dynamic intensity -2

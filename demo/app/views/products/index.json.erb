@@ -1,0 +1,1 @@
+[<%= raw @products.map { |p| %{{"id": "#{p.id}","product_name": "#{p.product_name}","description": "#{p.description}","price": "#{p.price}", "thumburl": "#{p.thumburl}", "category_id": "#{p.category_id}"}} }.join(',') %>]  
